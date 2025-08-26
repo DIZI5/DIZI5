@@ -18,6 +18,6 @@
 
 <div>
   <p>💻 Operating Systems:<p></p>
-    Windows &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;724 hrs 38 mins&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;████████████░░░░ &emsp;70.89%
-    Linux&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;298 hrs 46 mins&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;█████░░░░░░░░░░░ &emsp;29.11%</p>
+    Windows &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;724 hrs 38 mins&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;████████████░░░░ &emsp;70.89%
+    Linux&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;298 hrs 46 mins&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;█████░░░░░░░░░░░ &emsp;29.11%</p>
 </div>
