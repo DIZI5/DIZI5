@@ -9,5 +9,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DIZI5&repo=CS-Gambling-Site&theme=midnight-purple" />
 </a>
 <a href="https://github.com/Kicked-Out/VemboWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=VemboWeb&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DIZI5&repo=VemboWeb&theme=vision-friendly-dark" />
 </a>
